@@ -1,2 +1,1 @@
-# -C32-ANGRY-FRIENDS---PART-1
- C32: ANGRY FRIENDS - PART 1
+# AngryBirdsStage7
